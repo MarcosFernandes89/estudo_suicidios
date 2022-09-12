@@ -1,6 +1,6 @@
 # **Análise do Suicídios com Data Science**
 
-Foram utilizandos dados compilados de 4 datasets, para identificar correlação nos dados e verificar se há algum padrão nas informações.
+Foram utilizados dados compilados de 4 datasets, para identificar correlação nos dados e verificar se há algum padrão nas informações.
 
 Todos os anos, mais de 12 mil pessoas tiram suas próprias vidas no Brasil. Em um cenário mundial, esse número ultrapassa 1 milhão de pessoas, levando o suicídio a ser considerado um problema de saúde pública.
 
